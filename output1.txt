@@ -1,0 +1,60 @@
+                         levelName priority
+1  Buy monitor LED                       NA
+2   ¦--Wydajnosc                         NA
+3   ¦   ¦--Cena Zakupu                   NA
+4   ¦   ¦   ¦--Hitachi50HB5W62           NA
+5   ¦   ¦   ¦--LG43LJ594V                NA
+6   ¦   ¦   ¦--LG55UJ6517                NA
+7   ¦   ¦   ¦--Philips43PFT4112/12       NA
+8   ¦   ¦   ¦--SamsungUE50MU6172         NA
+9   ¦   ¦   °--SamsungUE43MU6172         NA
+10  ¦   ¦--Koszt Matrycy                 NA
+11  ¦   ¦   ¦--Hitachi50HB5W62           NA
+12  ¦   ¦   ¦--LG43LJ594V                NA
+13  ¦   ¦   ¦--LG55UJ6517                NA
+14  ¦   ¦   ¦--Philips43PFT4112/12       NA
+15  ¦   ¦   ¦--SamsungUE50MU6172         NA
+16  ¦   ¦   °--SamsungUE43MU6172         NA
+17  ¦   ¦--Koszt Utrzymania              NA
+18  ¦   ¦   ¦--Hitachi50HB5W62           NA
+19  ¦   ¦   ¦--LG43LJ594V                NA
+20  ¦   ¦   ¦--LG55UJ6517                NA
+21  ¦   ¦   ¦--Philips43PFT4112/12       NA
+22  ¦   ¦   ¦--SamsungUE50MU6172         NA
+23  ¦   ¦   °--SamsungUE43MU6172         NA
+24  ¦   °--Odsprzedaz                    NA
+25  ¦       ¦--Hitachi50HB5W62           NA
+26  ¦       ¦--LG43LJ594V                NA
+27  ¦       ¦--LG55UJ6517                NA
+28  ¦       ¦--Philips43PFT4112/12       NA
+29  ¦       ¦--SamsungUE50MU6172         NA
+30  ¦       °--SamsungUE43MU6172         NA
+31  ¦--Jakosc                            NA
+32  ¦   ¦--Hitachi50HB5W62               NA
+33  ¦   ¦--LG43LJ594V                    NA
+34  ¦   ¦--LG55UJ6517                    NA
+35  ¦   ¦--Philips43PFT4112/12           NA
+36  ¦   ¦--SamsungUE50MU6172             NA
+37  ¦   °--SamsungUE43MU6172             NA
+38  ¦--Styl                              NA
+39  ¦   ¦--Hitachi50HB5W62               NA
+40  ¦   ¦--LG43LJ594V                    NA
+41  ¦   ¦--LG55UJ6517                    NA
+42  ¦   ¦--Philips43PFT4112/12           NA
+43  ¦   ¦--SamsungUE50MU6172             NA
+44  ¦   °--SamsungUE43MU6172             NA
+45  °--Cena                              NA
+46      ¦--Jasnosc Ekranu                NA
+47      ¦   ¦--Hitachi50HB5W62           NA
+48      ¦   ¦--LG43LJ594V                NA
+49      ¦   ¦--LG55UJ6517                NA
+50      ¦   ¦--Philips43PFT4112/12       NA
+51      ¦   ¦--SamsungUE50MU6172         NA
+52      ¦   °--SamsungUE43MU6172         NA
+53      °--Czas reakcji                  NA
+54          ¦--Hitachi50HB5W62           NA
+55          ¦--LG43LJ594V                NA
+56          ¦--LG55UJ6517                NA
+57          ¦--Philips43PFT4112/12       NA
+58          ¦--SamsungUE50MU6172         NA
+59          °--SamsungUE43MU6172         NA
