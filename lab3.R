@@ -1,0 +1,8 @@
+library(ahp)
+ahpFile <- system.file("extdata", "led.ahp", package="ahp")
+ledAhp <- Load(ahpFile)
+Calculate(led)
+print(ledAhp, priority = function(x) x$sparent$priority["total", x$name])
+Visualize(ledAhp)
+Analyze(ledAhp)
+AnalyzeTable(ledAhp)
